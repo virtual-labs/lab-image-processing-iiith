@@ -26,9 +26,7 @@ RUN echo "<VirtualHost *:80>\n\
     RewriteCond %{REQUEST_URI} ^/$\n\
     RewriteRule ^/$ /Introduction.html [R=301,L]\n\
     </VirtualHost>" > /etc/apache2/sites-available/000-default.conf && \
-    a2enmod rewrite && \
-    echo "ServerName localhost" > /etc/apache2/conf-available/servername.conf && \
-    a2enconf servername
+    a2enmod rewrite
 
 # Set up PHP configuration
 RUN cp /usr/local/etc/php/php.ini-production /usr/local/etc/php/php.ini
