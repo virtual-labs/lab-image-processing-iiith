@@ -15,63 +15,63 @@
       "name": "Image Arithmetic",
       "short-name": "image-arithmetic",
       "repo": "https://github.com/virtual-labs/exp-image-arithmetic-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Affine Transformation",
       "short-name": "affine-transformation",
       "repo": "https://github.com/virtual-labs/exp-affine-transformation-iiith",
-      "tag": "v1.0.6",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
       "name": "Point Operations",
       "short-name": "point-operations",
       "repo": "https://github.com/virtual-labs/exp-point-operations-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Neighbourhood Operations",
       "short-name": "neighbourhood-operations",
       "repo": "https://github.com/virtual-labs/exp-neighbourhood-operations-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Image Histogram",
       "short-name": "image-histogram",
       "repo": "https://github.com/virtual-labs/exp-image-histogram-iiith",
-      "tag": "v1.0.6",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
       "name": "Fourier Transform",
       "short-name": "fourier-transform",
       "repo": "https://github.com/virtual-labs/exp-fourier-transform-iiith",
-      "tag": "v1.0.7",
+      "tag": "v1.0.8",
       "deploy": true
     },
     {
       "name": "Morphological Operations",
       "short-name": "morphological-operations",
       "repo": "https://github.com/virtual-labs/exp-morphological-operations-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Image Segmentation",
       "short-name": "image-segmentation",
       "repo": "https://github.com/virtual-labs/exp-image-segmentation-iiith",
-      "tag": "v1.0.6",
+      "tag": "v1.0.7",
       "deploy": true
     },
     {
       "name": "Image Processing Test Bench",
       "short-name": "image-processing-test-bench",
       "repo": "https://github.com/virtual-labs/exp-image-processing-test-bench-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     }
   ],
